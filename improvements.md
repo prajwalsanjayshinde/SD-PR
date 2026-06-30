@@ -1,4 +1,4 @@
-# Improvements and Enhancements
+# Improvements and Enhancements News Feed
 
 This document outlines potential improvements and production-level enhancements that can be applied to the current News Feed system design.
 
